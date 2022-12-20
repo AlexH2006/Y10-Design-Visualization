@@ -249,7 +249,7 @@ while j<8:
 ax = plt.subplot(projection='polar')
 c = ax.scatter(dot_angle, dot_radius, c=dot_color, s=dot_area, alpha=0.5)
 ax.grid(False)
-plt.title("Representing Students Receiving Secondary Education As A Tree", fontdict = {'family':'nonserif','color':'forestgreen','size':16})
+plt.title("Representing Students Receiving Secondary Education As A Tree", fontdict = {'color':'forestgreen','size':16})
 tomato_patch = mpatches.Patch(color='tomato', label='Upper Income')
 orange_patch = mpatches.Patch(color='orange', label='Upper Middle Income')
 mediumpurple_patch= mpatches.Patch(color='mediumpurple', label='Middle Income')
