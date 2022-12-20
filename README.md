@@ -15,8 +15,8 @@ Note: File 5 and File 3 are not used in the code, but they are crucial to future
 There are two different versions of codes (Tree_Income.py and Tree_Income_population.py). However, the key ideas are the same.
 
 # References:
-  Cruz, P., Wihbey, J., Ghael, A., Costa, S., Chao, R., & Shibuya, F. (n.d.). VISAP’18, Annotated portfolios and annotated projects. Retrieved December 20, 2022, from https://web.northeastern.edu/naturalizing-immigration-dataviz/download/portfolio-camera-ready.pdf
-  The World Bank. (2019). Population ages 0-14 (% of total population) | Data. Worldbank.org. https://data.worldbank.org/indicator/SP.POP.0014.TO.ZS
-  UNESCO Institute for Statistics. (2022, June). School enrollment, secondary (% gross) | Data. Data.worldbank.org. https://data.worldbank.org/indicator/SE.SEC.ENRR?end=2021&most_recent_year_desc=true&start=1970
-  World Bank. (2022). GDP per capita (current US$) | Data. Worldbank.org. https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
-  World Population Review. (2022). List Of Countries By Continent 2021. Worldpopulationreview.com. https://worldpopulationreview.com/country-rankings/list-of-countries-by-continent
+1. Cruz, P., Wihbey, J., Ghael, A., Costa, S., Chao, R., & Shibuya, F. (n.d.). VISAP’18, Annotated portfolios and annotated projects. Retrieved December 20, 2022, from https://web.northeastern.edu/naturalizing-immigration-dataviz/download/portfolio-camera-ready.pdf
+2. The World Bank. (2019). Population ages 0-14 (% of total population) | Data. Worldbank.org. https://data.worldbank.org/indicator/SP.POP.0014.TO.ZS
+3. UNESCO Institute for Statistics. (2022, June). School enrollment, secondary (% gross) | Data. Data.worldbank.org. https://data.worldbank.org/indicator/SE.SEC.ENRR?end=2021&most_recent_year_desc=true&start=1970
+4. World Bank. (2022). GDP per capita (current US$) | Data. Worldbank.org. https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+5. World Population Review. (2022). List Of Countries By Continent 2021. Worldpopulationreview.com. https://worldpopulationreview.com/country-rankings/list-of-countries-by-continent
