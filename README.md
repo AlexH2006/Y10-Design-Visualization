@@ -15,7 +15,7 @@ Note: File 5 and File 3 are not used in the code, but they are crucial to future
 There are two different versions of codes (Tree_Income.py and Tree_Income_population.py). However, the key ideas are the same.
 
 1. Each dot represents 3,000,000 students go to a secondary school
-2. The number of students enrolled in secondary school is only an estimation, because in the exact data, data from many years are missing. The calculation assumes the population aged 0~14 is relatively even distributed. Based on the population aged 0~14 in each country, we times 6/14 to get the secondary education population, as in avergae the secondary school is 6 years long.
+2. The number of students enrolled in secondary school is only an estimation, because in the exact data, data from many years are missing. The calculation assumes the population aged 0-14 is relatively even distributed. Based on the population aged 0~14 in each country, we times 6/14 to get the secondary education population, as in avergae the secondary school is 6 years long.
 3. Each white margin repsentes a decade. The inner-most ring represents data from 1970 to 1980.
 4. The color of the dot represents the country income suggested in the legend.
 
