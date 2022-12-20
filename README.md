@@ -14,6 +14,14 @@ Note: File 5 and File 3 are not used in the code, but they are crucial to future
 # Code:
 There are two different versions of codes (Tree_Income.py and Tree_Income_population.py). However, the key ideas are the same.
 
+1. Each dot represents 3,000,000 goes to a secondary school
+2. Each white margin repsentes a decade. The inner-most ring represents data from 1970 to 1980.
+3. The color of the dot represents the country income suggested in the legend.
+
+Difference between two versions:
+In Tree_Income.py, the mean value for random_angle is fixed in Guassian Random Numbers.
+In Tree_Income_population.py, the differce between adjacent mean value for random_angle is calculated proportional to the number of dots being dropped, which makes it more visually appealing.
+
 # References:
 1. Cruz, P., Wihbey, J., Ghael, A., Costa, S., Chao, R., & Shibuya, F. (n.d.). VISAP’18, Annotated portfolios and annotated projects. Retrieved December 20, 2022, from https://web.northeastern.edu/naturalizing-immigration-dataviz/download/portfolio-camera-ready.pdf
 2. The World Bank. (2019). Population ages 0-14 (% of total population) | Data. Worldbank.org. https://data.worldbank.org/indicator/SP.POP.0014.TO.ZS
