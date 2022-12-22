@@ -29,3 +29,4 @@ In Tree_Income_population.py, the differce between adjacent mean value for rando
 3. UNESCO Institute for Statistics. (2022, June). School enrollment, secondary (% gross) | Data. Data.worldbank.org. https://data.worldbank.org/indicator/SE.SEC.ENRR?end=2021&most_recent_year_desc=true&start=1970
 4. World Bank. (2022). GDP per capita (current US$) | Data. Worldbank.org. https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
 5. World Population Review. (2022). List Of Countries By Continent 2021. Worldpopulationreview.com. https://worldpopulationreview.com/country-rankings/list-of-countries-by-continent
+6. Roser, M., & Ortiz-Ospina, E. (2018). Global Education. Our World in Data. https://ourworldindata.org/global-education
